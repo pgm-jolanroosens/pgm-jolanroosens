@@ -10,4 +10,4 @@ Besides programming, I love anime, manga, sports, and being creative. I’m curr
 * UI/UX Design
 
 ### 📅 Internship 2027
-I’m looking for an internship for the period of **April–June 2027**. If you're interested in having me on your team, please feel free to send me a message!
+I’m looking for a school internship for the period of **April–June 2027**. If you're interested in having me on your team, please feel free to send me a message!
