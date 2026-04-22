@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jolan! 👋
 
-<!--
-**pgm-jolanroosens/pgm-jolanroosens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Besides programming, I love anime, manga, sports, and being creative. I’m currently enrolled in the Associate Degree in Programming at Artevelde University of Applied Sciences.
 
-Here are some ideas to get you started:
+> **As a person, I’m quite easy-going and a creative dreamer, which makes me highly motivated and eager to learn when I’m in the right environment.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Interests
+* **Front-end Development** (My main focus!)
+* HTML, CSS, JavaScript & React
+* UI/UX Design
+
+### 📅 Internship 2027
+I’m looking for an internship for the period of **April–June 2027**. If you're interested in having me on your team, please feel free to send me a message!
